@@ -17,7 +17,7 @@ pacman -Syu --noconfirm --needed
 echo "Installing required packages..."
 pacman -S --noconfirm --needed \
     noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra \
-    p7zip aria2 xorg-server xorg-xinit xorg-xrandr telegram-desktop \
+    p7zip aria2 xorg-server xorg-xinit xorg-xrandr  \
     xorg-xbacklight xorg-xsetroot xorg-xprop xorg-xinput \
     zsh picom ttf-jetbrains-mono ttf-jetbrains-mono-nerd \
     firefox firefox-developer-edition btop docker docker-compose \
