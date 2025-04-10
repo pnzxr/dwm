@@ -1,1 +1,1 @@
-![dwm](show.png)
+![.](show.png)
